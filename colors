@@ -1,0 +1,26 @@
+const colors = 
+[
+    "#0047AB: Cobalt Blue",
+    "#FF00FF: Magenta",
+    "#800020: Burgundy",
+    "#b1ff08: Neon Pearl Champagne" * 2,
+    "#2A52BE: Cerulean",
+    "#00FFFF: Cyan",
+    "#40E0D0: Turquoise",
+    "#3EB489: Mint",
+    "#2E8B57: Sea Green",
+    "#7FFF00: Chartreuse",
+    "#89CFF0: Baby Blue",
+    "#0000FF: Blue",
+    "#FF0000: Red",
+    "#FFC0CB: Pink",
+    "#C1E1C1: Pastel Green",
+    "#50C878: Emerald" * 2,
+    "#904353: Velvet Red",
+    "#36454F: Charcoal",
+    "#CCCCFF: Periwinkle",
+    "#FFB6C1: Light Pink",
+    "#000080: Navy Blue",
+    "#8A795D: Shadow",
+
+];
